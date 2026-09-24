@@ -161,9 +161,9 @@ Decision Dashboard
 | *Venu Munendra Kumar Pasumurthy* | ML Developer | [LinkedIn](https://www.linkedin.com/in/venupasumurthy) |
 | *PSL Sampath Kumar* | Tester | [LinkedIn](https://www.linkedin.com/in/sri-lakshmi-sampath-kumar-pachala-1b8813369) |
 | *Sai Charan Pasupuleti* | AI Developer | [LinkedIn](https://www.linkedin.com/in/saicharanpasupuleti) |
-| *Sree Harshitha Panchabavi* | Data Analysit | [LinkedIn](https://www.linkedin.com/in/sree-harshitha-panchabavi-50a942360) |
+| *Sree Harshitha Panchabavi* | Data Analyst | [LinkedIn](https://www.linkedin.com/in/sree-harshitha-panchabavi-50a942360) |
 | *Chandana Palamanda* | Recourse management | [LinkedIn](https://www.linkedin.com/in/chandana-palamanda-a16675360) |
-| *Natesan Aishwarya* | Data Analysit | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
+| *Aishwarya Natesan* | Data Analyst | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 ---
 📧 *Contact:*
 - pslsampathkumar@gmail.com
