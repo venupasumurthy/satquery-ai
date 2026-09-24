@@ -171,4 +171,5 @@ Decision Dashboard
 - venupasumurthy0509@gmail.com
 - natesanaishwarya@gmail.com
 - psai73873@gmail.com
+- harshitha21092006@gmail.com
 ---
